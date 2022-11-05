@@ -17,7 +17,6 @@ MongoDB https://www.npmjs.com/package/mongodb
 <br>
 Google Firebase https://firebase.google.com/firebase
 <br>
-
 <h3>Installation Guidelines:</h3>
 1) Download or clone repo <br>
 2) run "npm install"  <br>
@@ -32,6 +31,7 @@ See the section about running tests for more information.
 <h4>npm run build</h4>
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
 <h3>Screenshots</h3>
 
 
