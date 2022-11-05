@@ -33,7 +33,8 @@ Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 <h3>Screenshots</h3>
-<a>https://github.com/Kieran-Dillon/badBankMongodb_firebaseAuth/ScreenShots</a>
+<a href="https://github.com/Kieran-Dillon/badBankMongodb_firebaseAuth/ScreenShots">ScreenShots</a>
+<img src="./ScreenShots/BadBank Home.png" alt="BadBank Home" width="500" height="600">
 
 <h3>Video</h3>
 
