@@ -34,7 +34,12 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <h3>Screenshots</h3>
 <a href="https://github.com/Kieran-Dillon/badBankMongodb_firebaseAuth/ScreenShots">ScreenShots</a>
-<img src="./ScreenShots/BadBank Home.png" alt="BadBank Home" width="500" height="600">
+<img src="./ScreenShots/BadBank Home.png" alt="BadBank Home" width="600" height="300">
+<img src="./ScreenShots/BadBank Login.png" alt="BadBank Login" width="600" height="300">
+<img src="./ScreenShots/BadBank Create Account.png" alt="BadBank Create Account" width="600" height="300">
+<img src="./ScreenShots/BadBank Deposit.png" alt="BadBank Deposit" width="600" height="300">
+<img src="./ScreenShots/BadBank Withdraw.png" alt="BadBank Withdraw" width="600" height="300">
+<img src="./ScreenShots/BadBank Balance.png" alt="BadBank Balance" width="600" height="300">
 
 <h3>Video</h3>
 
