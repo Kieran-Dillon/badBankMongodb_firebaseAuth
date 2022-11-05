@@ -42,4 +42,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 <img src="./ScreenShots/BadBank Balance.png" alt="BadBank Balance" width="600" height="300">
 
 <h3>Video</h3>
-
+<video width="320" height="240" controls>
+  <source src="BadBank_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
