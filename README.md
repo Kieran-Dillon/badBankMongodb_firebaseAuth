@@ -24,7 +24,6 @@ Google Firebase https://firebase.google.com/firebase
 3) run "npm start" Runs the app in the development mode. <br>
 4) Open http://localhost:3000 to view it in the browser. <br>
 <br>
-<br>
 <h3>Other Available Functions:</h3>
 <h4>npm test</h4>
 Launches the test runner in the interactive watch mode.
