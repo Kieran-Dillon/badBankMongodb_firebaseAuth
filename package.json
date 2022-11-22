@@ -10,7 +10,6 @@
     "test": "jest",
     "start": "node index.js"
   },
-  "author": "abel@mit.edu",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
