@@ -1,5 +1,4 @@
 const MongoClient = require('mongodb').MongoClient;
-//const url = 'mongodb+srv://sboxall:me12@badbank.otqja.mongodb.net/badbank?retryWrites=true&w=majority';
 const url = 'mongodb://localhost:27017';
 
 let db = null;
@@ -10,7 +9,7 @@ MongoClient.connect(url, { useUnifiedTopology: true }, function (err, client) {
     console.log(err);
     // connect to myproject database
     
- //  db = heroku config:set MONGODB_URI="mongodb+srv://sboxall:<me12>@badbank.otqja.mongodb.net/client.'badbank'?retryWrites=true&w=majority"
+
     db = client.db('badbank');
    
 
