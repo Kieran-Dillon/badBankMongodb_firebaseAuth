@@ -5,12 +5,12 @@ const BrowserRouter = ReactRouterDOM.BrowserRouter;
 const UserContext = React.createContext(null);
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAE8ewoiEZlTXJyLhlc8BucG4I3ztMXFtg",
-  authDomain: "fir-auth-1a573.firebaseapp.com",
-  projectId: "fir-auth-1a573",
-  storageBucket: "fir-auth-1a573.appspot.com",
-  messagingSenderId: "487849138116",
-  appId: "1:487849138116:web:7c22b570e7a8910a97b691"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 firebase.initializeApp(firebaseConfig);
